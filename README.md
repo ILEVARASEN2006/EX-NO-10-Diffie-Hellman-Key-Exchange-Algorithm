@@ -54,7 +54,7 @@ main()
 
 
 ## Output:
-<img width="1240" height="399" alt="image" src="https://github.com/user-attachments/assets/88d4f36b-1b19-4b78-965a-0d817bff72a1" />
+<img width="630" height="476" alt="image" src="https://github.com/user-attachments/assets/502cad6c-dafd-4ce9-bf54-5c548b6d28a2" />
 
 ## Result:
   The program is executed successfully.
